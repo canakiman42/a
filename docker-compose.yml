@@ -16,7 +16,7 @@ services:
       - DISPLAY_WIDTH=1366
       - DISPLAY_HEIGHT=668
     ports:
-      - "80:80"
+      - "80:8080"
     networks:
       - x11
 networks:
