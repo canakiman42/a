@@ -27,7 +27,6 @@ RUN set -ex; \
         g++ \
         ssh \
 	chromium-browser \
-	winehq-stable \
         terminator \
         htop \
         gnupg2 \
